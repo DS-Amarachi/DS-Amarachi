@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Amarachi 👋</h1>
 
 <p align="center">
-  <em>MSc Data Science | AI in Healthcare | Research Enthusiast | Tech for Good Advocate</em>
+  <em> Data Science | Data Analytics | AI in Healthcare | Research Enthusiast | Tech for Good Advocate</em>
 </p>
 
 ---
