@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a passionate Data Scientist with a computer science background, working at the intersection of technology, data, and impact. I enjoy solving real-world problems using Python — especially in healthcare, business, and research settings. I'm always exploring new ways to apply data science for good.
+I'm a passionate Data professional with an MSc in Data Science and a computer science background, working at the intersection of technology, data, and impact. I enjoy solving real-world problems using Python — especially in healthcare, business, and research settings. I'm always exploring new ways to apply data science for good.
 
 - 🌱 Currently learning and exploring
 - 👯 Looking forward to collaborate with like-minds
@@ -20,23 +20,23 @@ I'm a passionate Data Scientist with a computer science background, working at t
 - **Languages:** Python, Java, Julia, SQL
 - **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn  
 - **Tools:** Jupyter, Power BI, SPSS, Zotero, Git, Azure, VS Code, Google Colab  
-- **Skills:** EDA, Machine Learning, Deep Learning, Signal Processing, Data Visualization
+- **Skills:** EDA, Machine Learning, Deep Learning, Signal Processing, Data Visualisation
 
 ---
 
 ### 🚀 Projects
 
-- 🧠 **Brain Tumor Detection using CNN**  
-  Built a convolutional neural network for classifying brain MRI scans to detect tumors.
+- 🧠 **Brain Tumour Detection using CNN**  
+  Built a convolutional neural network for classifying brain MRI scans to detect tumours.
 
 - 💊 **NHS StepUp Challenge C**  
-  Analyzed patterns in antidepressant prescription data using Python, Pandas, Matplotlib, and Seaborn.
+  Analysed patterns in antidepressant prescription data using Python, Pandas, Matplotlib, and Seaborn.
 
-- 🔐 **Medical Data Anonymization Tool**  
-  Developed a Java-based application using regex to anonymize sensitive patient data, deployed on Azure.
+- 🔐 **Medical Data Anonymisation Tool**  
+  Developed a Java-based application using regex to anonymise sensitive patient data, deployed on Azure.
 
 - ⚡ **Modular Exponentiation Optimization**  
-  Implemented and optimized modular exponentiation in Julia for high-performance computing applications.
+  Implemented and optimised modular exponentiation in Julia for high-performance computing applications.
 
 ---
 
